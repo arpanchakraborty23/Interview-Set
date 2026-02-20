@@ -1,0 +1,144 @@
+### **10-Day Data Science Interview Preparation Plan**
+
+Each day covers a mix of theoretical, practical, and scenario-based questions to help you comprehensively prepare for a data science interview.
+
+---
+
+### **Day 1**: Fundamentals and Basics
+1. What is the difference between AI, Machine Learning, and Deep Learning?
+2. Explain the differences between supervised and unsupervised learning.
+3. What is overfitting? How can you prevent it?
+4. Explain precision, recall, and F1-score with examples.
+5. What is one-hot encoding? Why do we use it?
+6. What is gradient descent? What are its variants?
+7. Describe the workflow of a data science project.
+8. How would you handle missing data in a dataset?
+9. What are the assumptions of linear regression?
+10. Write Python code to implement feature scaling using StandardScaler from scikit-learn.
+
+---
+
+### **Day 2**: Algorithms and Metrics
+1. Explain the working of K-Nearest Neighbors (KNN). What are its pros and cons?
+2. How does Random Forest work? Why is it less prone to overfitting?
+3. What is ROC-AUC? How is it calculated?
+4. What is the difference between bagging and boosting?
+5. How does PCA reduce dimensionality?
+6. Explain the concept of bias-variance tradeoff.
+7. What are the differences between Logistic Regression and Support Vector Machine (SVM)?
+8. How do you evaluate the performance of a regression model?
+9. Write Python code to implement a decision tree using scikit-learn.
+10. What is multicollinearity? How can it affect your model?
+
+---
+
+### **Day 3**: Feature Engineering and Preprocessing
+1. Why is feature scaling important in machine learning?
+2. What is the difference between L1 and L2 regularization?
+3. How would you detect and handle outliers in a dataset?
+4. Explain the difference between encoding categorical data using one-hot encoding and label encoding.
+5. How does data imbalance affect model performance?
+6. What is SMOTE? When is it used?
+7. Explain the difference between mean absolute error (MAE) and mean squared error (MSE).
+8. Write Python code to handle missing values using pandas.
+9. How do you decide which features to use in a model?
+10. What is the importance of feature selection?
+
+---
+
+### **Day 4**: Advanced Machine Learning
+1. What is XGBoost, and why is it so effective?
+2. Explain the difference between AdaBoost and Gradient Boosting.
+3. What are the hyperparameters of Random Forest?
+4. How do you handle categorical variables in tree-based models?
+5. What is the difference between k-fold cross-validation and stratified k-fold cross-validation?
+6. What are the limitations of using mean for imputation?
+7. How do you deal with multicollinearity in a dataset?
+8. Write Python code to implement Random Forest and evaluate it using cross-validation.
+9. How do ensemble methods improve model performance?
+10. What is the curse of dimensionality, and how can you mitigate it?
+
+---
+
+### **Day 5**: Statistics and Probability
+1. What is the Central Limit Theorem?
+2. Explain the difference between Type I and Type II errors.
+3. What is p-value? How is it used in hypothesis testing?
+4. How do you calculate confidence intervals?
+5. What are the assumptions of ANOVA?
+6. Explain Bayes' Theorem with an example.
+7. How do you interpret a correlation coefficient?
+8. Write Python code to calculate the correlation matrix of a dataset.
+9. What is the difference between probability density function (PDF) and cumulative distribution function (CDF)?
+10. What is the role of statistics in data science?
+
+---
+
+### **Day 6**: Deep Learning Basics
+1. What is a neural network? Explain its components.
+2. What is the role of activation functions in a neural network?
+3. Explain backpropagation in simple terms.
+4. What is overfitting in deep learning, and how can you avoid it?
+5. What is the difference between CNN and RNN?
+6. What is dropout in neural networks, and why is it used?
+7. Explain the difference between batch normalization and layer normalization.
+8. Write Python code to build a simple feedforward neural network using PyTorch.
+9. What is transfer learning, and how is it applied?
+10. What are the vanishing and exploding gradient problems?
+
+---
+
+### **Day 7**: Model Deployment and Monitoring
+1. How do you deploy a machine learning model?
+2. What is the difference between batch and real-time processing?
+3. Explain the steps to set up a REST API for a trained ML model.
+4. What is data drift, and how can you monitor it?
+5. How do you handle version control for machine learning models?
+6. What are the challenges in deploying deep learning models?
+7. How do you ensure model explainability?
+8. Write Python code to save a trained model using joblib.
+9. What is the importance of model monitoring in production?
+10. What tools are commonly used for model deployment?
+
+---
+
+### **Day 8**: Scenario-Based Questions
+1. How would you build a recommendation system for an e-commerce platform?
+2. A dataset has 80% missing values in a column. What would you do?
+3. How would you improve the performance of an underperforming model?
+4. What steps would you take to preprocess text data for NLP tasks?
+5. You are given a dataset with 100 million records. How would you process it?
+6. What factors would you consider while choosing a machine learning algorithm?
+7. Explain how you would handle class imbalance in a classification problem.
+8. How would you explain a complex ML model to a non-technical stakeholder?
+9. A deployed model is giving inconsistent predictions. What would you do?
+10. How would you identify and remove duplicate data in a dataset?
+
+---
+
+### **Day 9**: Tools and Libraries
+1. What is the difference between Pandas and NumPy?
+2. What are the common functions of the sklearn library?
+3. How does TensorFlow differ from PyTorch?
+4. What are the benefits of using Apache Spark for data processing?
+5. What is the role of MLflow in machine learning projects?
+6. How would you visualize the relationship between two variables?
+7. Write Python code to perform exploratory data analysis (EDA) using Pandas.
+8. How does Dask handle large datasets?
+9. What are the key visualization libraries in Python?
+10. How would you use FastAPI to create an API for a machine learning model?
+
+---
+
+### **Day 10**: Mock Interview
+1. Explain a machine learning project you’ve worked on end-to-end.
+2. How do you approach a new dataset?
+3. What is your favorite machine learning algorithm and why?
+4. How do you ensure reproducibility in your data science workflows?
+5. Explain a time when your model didn’t perform as expected. What did you do?
+6. How do you balance business requirements with technical feasibility?
+7. How do you stay updated with the latest developments in data science?
+8. Write Python code to train a logistic regression model and evaluate its accuracy.
+9. How do you handle conflicting feedback from stakeholders?
+10. What do you think is the future of data science?
+
